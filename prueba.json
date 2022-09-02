@@ -1,0 +1,50 @@
+[
+   {
+      "Usuario": "dfggfdfdg",
+      "Cantidad de nodos": "A",
+      "Valor inicial": "B",
+      "Valor final": 2,
+      "Busqueda": [
+         [
+            "A",
+            "B"
+         ]
+      ]
+   },
+   {
+      "Usuario": "dfggfdfdg",
+      "Cantidad de nodos": "C",
+      "Valor inicial": "D",
+      "Valor final": 2,
+      "Busqueda": [
+         [
+            "C",
+            "D"
+         ]
+      ]
+   },
+   {
+      "Usuario": "Juan",
+      "Cantidad de nodos": "A",
+      "Valor inicial": "B",
+      "Valor final": 2,
+      "Busqueda": [
+         [
+            "A",
+            "B"
+         ]
+      ]
+   },
+   {
+      "Usuario": "Juan",
+      "Cantidad de nodos": "B",
+      "Valor inicial": "A",
+      "Valor final": 2,
+      "Busqueda": [
+         [
+            "B",
+            "A"
+         ]
+      ]
+   }
+]
